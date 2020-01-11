@@ -11,11 +11,12 @@ repositories {
 }
 
 dependencies {
-    // https://mvnrepository.com/artifact/org.testng/testng
-    testCompile group: 'org.testng', name: 'testng', version: '7.1.0'
 
+    testCompile group: 'org.testng', name: 'testng', version: '7.1.0'
     compile group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '3.141.59'
     compile group: 'commons-io', name: 'commons-io', version: '2.6'
+    compile group: 'org.apache.poi', name: 'poi-ooxml', version: '3.15'
+
 }
 test{
     useTestNG()
