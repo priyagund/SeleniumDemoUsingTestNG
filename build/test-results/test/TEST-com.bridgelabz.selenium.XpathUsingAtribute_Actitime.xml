@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.selenium.XpathUsingAtribute_Actitime" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-01-13T09:06:41" hostname="admin142-desktop" time="6.116">
+  <properties/>
+  <testcase name="Independent_Dependent_Xpath_Seleniumsite_javaDownload" classname="com.bridgelabz.selenium.XpathUsingAtribute_Actitime" time="6.116"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 77.0.3865.10 (bc3579f611bbc73331171afe020ec7a45e6ccc55-refs/branch-heads/3865@{#93}) on port 3711
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+Jan 13, 2020 2:36:35 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
